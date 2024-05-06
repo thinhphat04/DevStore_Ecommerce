@@ -444,3 +444,4 @@ D:/Tram/.NET/Dev-Dotnet/BackEnd/BackEnd/bin/Debug/net8.0/BackEnd.staticwebassets
 /Users/ngothinhphat/Desktop/Dev-Store/Api/BackEnd/obj/Debug/net8.0/BackEnd.pdb
 /Users/ngothinhphat/Desktop/Dev-Store/Api/BackEnd/obj/Debug/net8.0/BackEnd.genruntimeconfig.cache
 /Users/ngothinhphat/Desktop/Dev-Store/Api/BackEnd/obj/Debug/net8.0/ref/BackEnd.dll
+/Users/ngothinhphat/Desktop/Dev-Store/Api/BackEnd/obj/Debug/net8.0/BackEnd.sourcelink.json
