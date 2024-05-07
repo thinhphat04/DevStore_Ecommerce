@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ngothinhphat/Desktop/Dev-Store/Api/BackEnd/BackEnd.csproj": {}
+    "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/BackEnd.csproj": {}
   },
   "projects": {
-    "/Users/ngothinhphat/Desktop/Dev-Store/Api/BackEnd/BackEnd.csproj": {
+    "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ngothinhphat/Desktop/Dev-Store/Api/BackEnd/BackEnd.csproj",
+        "projectUniqueName": "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/BackEnd.csproj",
         "projectName": "BackEnd",
-        "projectPath": "/Users/ngothinhphat/Desktop/Dev-Store/Api/BackEnd/BackEnd.csproj",
+        "projectPath": "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/BackEnd.csproj",
         "packagesPath": "/Users/ngothinhphat/.nuget/packages/",
-        "outputPath": "/Users/ngothinhphat/Desktop/Dev-Store/Api/BackEnd/obj/",
+        "outputPath": "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ngothinhphat/.nuget/NuGet/NuGet.Config"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
