@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="devstore" type="DotNetPublishAndUpload" factoryName="Publish to custom server">
+    <riderPublish configuration="Release" platform="Any CPU" runtime="Portable" server_id="0d3c4384-2315-4f03-91d0-ab4b74b3c1b3" serverName="devstore.somee.com" target_framework="net8.0" uuid_high="8824945360491463184" uuid_low="-6002436291564095037" />
+    <method v="2" />
+  </configuration>
+</component>
