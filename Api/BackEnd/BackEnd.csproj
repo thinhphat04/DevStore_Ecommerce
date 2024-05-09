@@ -139,4 +139,9 @@
     <_ContentIncludedByDefault Remove="https:\win8100.site4now.net:8172\MsDeploy.axd?site=ngothinhphat244-001-site\wwwroot\manifest.json" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Properties\PublishProfiles\http:\devstore.somee.com.pubxml" />
+    <None Remove="Properties\PublishProfiles\test.pubxml" />
+  </ItemGroup>
+
 </Project>

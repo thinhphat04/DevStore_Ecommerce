@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EUjUqgkhLMgsv/keK9JdnPFrJZIYBTNDfDJ+Rqc73n8=",
+  "Hash": "MLu3Ikg2Y+joaF8DeRLvo1eM71LKzOQHcSMsPC/GdDo=",
   "Source": "BackEnd",
   "BasePath": "_content/BackEnd",
   "Mode": "Default",
@@ -682,12 +682,12 @@
       "OriginalItemSpec": "wwwroot/static/js/787.d5fa4d18.chunk.js.map"
     },
     {
-      "Identity": "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/wwwroot/static/js/main.71cc9fa5.js",
+      "Identity": "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/wwwroot/static/js/main.730b5576.js",
       "SourceId": "BackEnd",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/wwwroot/",
       "BasePath": "_content/BackEnd",
-      "RelativePath": "static/js/main.71cc9fa5.js",
+      "RelativePath": "static/js/main.730b5576.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -698,15 +698,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/static/js/main.71cc9fa5.js"
+      "OriginalItemSpec": "wwwroot/static/js/main.730b5576.js"
     },
     {
-      "Identity": "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/wwwroot/static/js/main.71cc9fa5.js.LICENSE.txt",
+      "Identity": "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/wwwroot/static/js/main.730b5576.js.LICENSE.txt",
       "SourceId": "BackEnd",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/wwwroot/",
       "BasePath": "_content/BackEnd",
-      "RelativePath": "static/js/main.71cc9fa5.js.LICENSE.txt",
+      "RelativePath": "static/js/main.730b5576.js.LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -717,15 +717,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/static/js/main.71cc9fa5.js.LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/static/js/main.730b5576.js.LICENSE.txt"
     },
     {
-      "Identity": "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/wwwroot/static/js/main.71cc9fa5.js.map",
+      "Identity": "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/wwwroot/static/js/main.730b5576.js.map",
       "SourceId": "BackEnd",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/wwwroot/",
       "BasePath": "_content/BackEnd",
-      "RelativePath": "static/js/main.71cc9fa5.js.map",
+      "RelativePath": "static/js/main.730b5576.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -736,7 +736,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/static/js/main.71cc9fa5.js.map"
+      "OriginalItemSpec": "wwwroot/static/js/main.730b5576.js.map"
     },
     {
       "Identity": "/Users/ngothinhphat/DevStore_Ecommerce/Api/BackEnd/wwwroot/static/media/roboto-cyrillic-300-normal.1431d1cef06ad04f5458.woff2",
