@@ -17,7 +17,7 @@ const rightLinks = [
 
 const navStyles = {
     color: 'inherit',
-    textDecoration: 'none', //for sx of Mini-store
+    textDecoration: 'none', //for sx of Dev-store
     typography: 'h6',
     '&:hover': {
         color: 'grey.500',
@@ -47,7 +47,7 @@ export default function Header({ darkMode, handleThemeChange }: Props) {
                     <Typography variant="h6" component={NavLink}
                         to='/'
                         sx={navStyles}>
-                        DEV-Store
+                        Dev-Store
                     </Typography>
                     <Switch checked={darkMode} onChange={handleThemeChange} />
                 </Box>

@@ -7,7 +7,7 @@ import { useAppDispatch } from "../../app/store/configureStore";
 import CheckoutPage from "./CheckoutPage";
 import { setCart } from "../cart/CartSlice";
 
-const stripePromise = loadStripe('pk_test_51P6CI8Jv3m6U6GyJNvEA6lqGftR8n1uOKvAyGtw1cdNF3D32giFm767Z2K4vx0CYX3GxpBeEkrIR6lNz6dcUGNUz00LkqkGA5a')
+const stripePromise = loadStripe('pk_test_51OlTIyI3XzL9WVaybntAD5rj5RBTEjt506SIR2WIRhXL6TFwJxcDqRbdzUEoD2JVt2bjkworeSXdSttMJti7sxEA00UJ3tYaMK')
 
 export default function CheckoutWrapper() {
     const dispatch = useAppDispatch();
@@ -19,7 +19,7 @@ export default function CheckoutWrapper() {
             .catch(error => console.log(error))
             .finally(() => setLoading(false));
     }, [dispatch]);
-
+    
     if (loading) return <LoadingComponent message="Loading checkout..." />
 
     return (

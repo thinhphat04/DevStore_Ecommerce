@@ -32,7 +32,7 @@ namespace BackEnd.Controllers
 
 
         [HttpPost]      
-        public async Task<ActionResult<CartDto>> AddIemToCart(int productId, int quantity)
+        public async Task<ActionResult<CartDto>> AddItemToCart(int productId, int quantity)
         {
             // Get Cart || Create Cart
             var cart = await RetrieveCart(GetBuyerId());
