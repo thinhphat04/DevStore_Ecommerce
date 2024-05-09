@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="fb727bd3-155b-4006-8343-fecfcdcf5e69" name="NTP244" url="http://NTP244Dev-Store.somee.com">
-        <fileTransfer rootFolder="/www.NTP244Dev-Store.somee.com" host="NTP244Dev-Store.somee.com" port="21">
+      <webServer id="fb727bd3-155b-4006-8343-fecfcdcf5e69" name="NTP244" url="http://DevStoreNTP244.somee.com">
+        <fileTransfer rootFolder="/www.DevStoreNTP244.somee.com" host="DevStoreNTP244.somee.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
